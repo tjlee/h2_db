@@ -1,2 +1,2 @@
-# h2_db_1.4
-Docker image for H2 db v1.4
+# h2_db_1.3
+Docker image for H2 db v1.3.176
